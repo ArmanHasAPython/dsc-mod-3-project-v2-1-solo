@@ -126,4 +126,4 @@ dmypy.json
 
 .gitattributes
 .DS_Store
-.csv
+*.csv
