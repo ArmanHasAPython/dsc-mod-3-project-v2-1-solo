@@ -8,7 +8,7 @@ Please complete the project with the adjustments described here. If you find you
 
 ## The Project Task
 
-
+You must choose #2 or #3 from the curated list of datasets.
 
 ## The Project Review
 
