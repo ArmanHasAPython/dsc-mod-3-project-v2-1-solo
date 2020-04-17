@@ -2,7 +2,9 @@
 
 ## Directory
 
-All the relevant information including EDA, Visualisations, and Data Cleaning are present in the Jupyter Notebook file labelled Customer Churn Data. ipynb
+All the relevant information including Data Understanding, EDA, and operation of the baseline and 3 learner models are present in the Jupyter Notebook file labelled Customer Churn Data.ipynb
+
+The data set is found in the data folder.
 
 ## The Project Task
 
